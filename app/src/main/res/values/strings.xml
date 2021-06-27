@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aykut Beyaz</string>
+    <string name="Country">Ülke </string>
+    <string name="Countrys">Ülkeler </string>
+    <string name="Country_NameLabel">Ülke Adı: </string>
+    <string name="Country_ListLabel">Ülke Listesi: </string>
+    <string name="Country_AddButton">Ülke Ekle</string>
+    <string name="Place">Şehir </string>
+    <string name="Places">Şehirler </string>
+    <string name="Place_NameLabel">Şehir Adı: </string>
+    <string name="Place_ListLabel">Şehir Listesi: </string>
+    <string name="Place_AddButton">Şehir Ekle </string>
+</resources>
